@@ -1,0 +1,3 @@
+ofxGuiExtended
+ofxMasterSlaveControl
+ofxMidi
